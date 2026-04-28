@@ -1,4 +1,4 @@
 class Settings:
-    SLACK_WEBHOOK_URL = "https://hooks.slack.com/services/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"
+    SLACK_WEBHOOK_URL = "<your_webhook_url>"
 
 settings = Settings()
